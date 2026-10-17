@@ -10,6 +10,9 @@
 
 | Материал | Что внутри |
 | --- | --- |
+| [Понять тему с нуля: Word](presentations/1.13-etalony-otstupy/Ponyat_temu_s_nulya.docx) | Подробный разбор простым языком, 19 страниц, вопросы и самопроверка |
+| [Тот же разбор в PDF](presentations/1.13-etalony-otstupy/Ponyat_temu_s_nulya.pdf) | Удобно читать без Word |
+| [Читать разбор на GitHub](presentations/1.13-etalony-otstupy/Ponyat_temu_s_nulya.md) | Теория, пример SYN-flood, расчёты и графики |
 | [Презентация PPTX](presentations/1.13-etalony-otstupy/Etalony_otstupy_SYN_flood.pptx) | 24 слайда с заметками докладчика |
 | [Презентация PDF](presentations/1.13-etalony-otstupy/Etalony_otstupy_SYN_flood.pdf) | Версия для просмотра |
 | [График PNG](presentations/1.13-etalony-otstupy/SYN_flood_graph.png) | Те же восемь окон, граница модели и ошибки |
