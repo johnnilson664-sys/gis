@@ -1,0 +1,50 @@
+[
+  {
+    "number": 1,
+    "title": "Загуглить противника",
+    "timing": "00:00–01:30",
+    "image": "slides/01.png"
+  },
+  {
+    "number": 2,
+    "title": "TI помогает выбрать следующий шаг",
+    "timing": "01:30–04:00",
+    "image": "slides/02.png"
+  },
+  {
+    "number": 3,
+    "title": "Объект ещё нужно объяснить",
+    "timing": "04:00–06:30",
+    "image": "slides/03.png"
+  },
+  {
+    "number": 4,
+    "title": "Совпадение — начало проверки",
+    "timing": "06:30–10:00",
+    "image": "slides/04.png"
+  },
+  {
+    "number": 5,
+    "title": "Сначала вопрос. Затем сервис.",
+    "timing": "10:00–14:30",
+    "image": "slides/05.png"
+  },
+  {
+    "number": 6,
+    "title": "Одна иконка. Несколько компонентов.",
+    "timing": "14:30–19:00",
+    "image": "slides/06.png"
+  },
+  {
+    "number": 7,
+    "title": "Теперь — к своим устройствам",
+    "timing": "19:00–23:30",
+    "image": "slides/07.png"
+  },
+  {
+    "number": 8,
+    "title": "Что ответим сотруднику?",
+    "timing": "23:30–25:00",
+    "image": "slides/08.png"
+  }
+]
