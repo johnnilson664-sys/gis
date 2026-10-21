@@ -1,0 +1,74 @@
+{
+  "sophos": [
+    "Sophos · разбор 3CX, 2023",
+    "https://www.sophos.com/en-gb/blog/3cx-dll-sideloading-attack"
+  ],
+  "ioc": [
+    "SophosLabs · опубликованный SHA-256",
+    "https://raw.githubusercontent.com/sophoslabs/IoCs/master/3CX%20IoCs%202023-03.csv"
+  ],
+  "alert": [
+    "3CX · DesktopApp Security Alert, 30.03.2023",
+    "https://www.3cx.com/blog/news/desktopapp-security-alert/"
+  ],
+  "mandiant": [
+    "Mandiant · 3CX, 20.04.2023",
+    "https://cloud.google.com/blog/topics/threat-intelligence/3cx-software-supply-chain-compromise"
+  ],
+  "nist": [
+    "NIST · Indicator of Compromise",
+    "https://csrc.nist.gov/glossary/term/indicator_of_compromise"
+  ],
+  "hash": [
+    "Microsoft · Get-FileHash",
+    "https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash"
+  ],
+  "signature": [
+    "Microsoft · Authenticode",
+    "https://learn.microsoft.com/en-us/windows-hardware/drivers/install/authenticode"
+  ],
+  "file": [
+    "VirusTotal · File object",
+    "https://docs.virustotal.com/reference/files"
+  ],
+  "analysis": [
+    "VirusTotal · Analysis object",
+    "https://docs.virustotal.com/reference/analyses-object"
+  ],
+  "comments": [
+    "VirusTotal · Community / Comments",
+    "https://docs.virustotal.com/docs/comments"
+  ],
+  "reports": [
+    "VirusTotal · Results reports",
+    "https://docs.virustotal.com/docs/results-reports"
+  ],
+  "privacy": [
+    "VirusTotal · Searching",
+    "https://docs.virustotal.com/docs/searching"
+  ],
+  "abuse": [
+    "AbuseIPDB · CHECK",
+    "https://docs.abuseipdb.com/#check-endpoint"
+  ],
+  "faq": [
+    "AbuseIPDB · FAQ",
+    "https://www.abuseipdb.com/faq.html"
+  ],
+  "vishnyakov": [
+    "А. Вишняков · Ошибки TI в SOC, PHDays 2025",
+    "https://pt-phdays.storage.yandexcloud.net/Aleksej_Vishnyakov_Oshibki_ispolzovaniya_threat_intelligence_v_SOC_012edd864a.pdf"
+  ],
+  "arefiev": [
+    "Н. Арефьев · Открытые источники TI, SOC Forum 2023",
+    "https://forumsoc.ru/upload/iblock/007/zrrjrpwyt50186gn7sg3ij6sts223qvl.pdf"
+  ],
+  "nenakhov": [
+    "А. Ненахов · Как киберразведка помогает SOC, 2023",
+    "https://forumsoc.ru/upload/iblock/485/vw01piz8qd0037k4zsusyelev6851jc4.pdf"
+  ],
+  "kotsyuba": [
+    "И. Коцюба · Не все индикаторы полезны, PHDays 2025",
+    "https://pt-phdays.storage.yandexcloud.net/Ilya_Koczyuba_Threat_Intelligence_ili_ne_vse_indikatory_odinakovo_polezny_7f23cf3f82.pdf"
+  ]
+}
